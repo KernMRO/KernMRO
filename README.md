@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm KernMRO 👋
 
-<!--
-**KernMRO/KernMRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Developer | Networking & Security Enthusiast
 
-Here are some ideas to get you started:
+I'm a junior developer interested in software development, computer networks, and cybersecurity.  
+Currently building projects and improving my skills in different programming languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+
+### Programming Languages
+- C
+- C++
+- C#
+- Java
+- Python
+
+### Areas of Interest
+- Computer Networking
+- Network Security
+- Cybersecurity
+- Socket Programming
+- System Programming
+- Software Development
+
+## 📚 Currently Learning
+
+- Advanced Networking
+- Network Security
+- Cybersecurity Fundamentals
+- Data Structures & Algorithms
+- Clean Code & Software Development
+
+## 🚀 Goals
+
+- Build practical and useful projects
+- Improve my software development skills
+- Learn more about cybersecurity and network security
+- Contribute to open-source projects
+- Grow as a developer every day
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and projects.
+
+---
+
+> Learning. Building. Improving. 🚀
