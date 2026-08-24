@@ -1,20 +1,21 @@
 # Hey, I'm KernMRO 👋
 
-### Junior Developer | Networking & Security Enthusiast
+### Developer | Networking & Cybersecurity Enthusiast
 
-I'm a junior developer interested in software development, computer networks, and cybersecurity.  
-Currently building projects and improving my skills in different programming languages and technologies.
+I'm interested in software development, computer networking, and cybersecurity.
 
-## 🛠️ Technologies & Skills
+I have experience with C, C++, C#, Java, and Python. I recently completed Network+ and I'm currently continuing to learn and improve my skills in networking and cybersecurity.
 
-### Programming Languages
+## 🛠️ Programming Languages
+
 - C
 - C++
 - C#
 - Java
 - Python
 
-### Areas of Interest
+## 🔐 Areas of Interest
+
 - Computer Networking
 - Network Security
 - Cybersecurity
@@ -28,15 +29,14 @@ Currently building projects and improving my skills in different programming lan
 - Network Security
 - Cybersecurity Fundamentals
 - Data Structures & Algorithms
-- Clean Code & Software Development
 
 ## 🚀 Goals
 
-- Build practical and useful projects
-- Improve my software development skills
-- Learn more about cybersecurity and network security
+- Build practical projects
+- Improve my programming skills
+- Learn more about networking and cybersecurity
 - Contribute to open-source projects
-- Grow as a developer every day
+- Continue learning and growing
 
 ## 📫 Connect With Me
 
