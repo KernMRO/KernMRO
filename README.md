@@ -15,7 +15,11 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 ### 🛠️ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light" alt="C, C++, C#, Java, Python" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light"
+    height="75"
+    alt="C, C++, C#, Java, Python"
+  />
 </p>
 ### 🔐 Areas of Interest
 
