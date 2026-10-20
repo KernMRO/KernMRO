@@ -49,12 +49,23 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KernMRO's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F&icon_color=0969DA"
+    alt="KernMRO's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernMRO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KernMRO&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292F"
+    alt="GitHub streak"
+  />
 </p>
 
 <br>
