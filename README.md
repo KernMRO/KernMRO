@@ -57,10 +57,7 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KernMRO&theme=default&hide_border=true&background=FFFFFF"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KernMRO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <br>
