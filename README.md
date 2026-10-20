@@ -49,11 +49,8 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light"
-    height="75"
-    alt="C, C++, C#, Java, Python"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KernMRO's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
