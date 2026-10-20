@@ -17,7 +17,7 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light"
-    height="75"
+    height="175"
     alt="C, C++, C#, Java, Python"
   />
 </p>
