@@ -83,4 +83,4 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
   <em>Explore my repositories below — feedback and collaboration are always welcome.</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=100&section=footer" alt="Footer" />
