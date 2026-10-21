@@ -8,7 +8,10 @@
 
 ### About Me
 
-Software developer focused on **computer networking** and **cybersecurity**, with hands-on experience in C, C++, C#, Java, and Python. I hold a **CompTIA Network+** certification and am currently expanding my expertise in network security while building practical, real-world projects.
+Junior Developer | Networking & Cybersecurity Enthusiast
+Focused on software development, computer networking, and cybersecurity.
+
+Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certification. I'm building practical projects while deepening my knowledge of networking and cybersecurity.
 
 <br>
 
