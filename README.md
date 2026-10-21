@@ -13,6 +13,7 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 <br>
 
 ### 🛠️ Programming Languages
+
 <p align="center">
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
@@ -20,6 +21,7 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
 </p>
+
 ### 🔐 Areas of Interest
 
 - Computer Networking
@@ -68,6 +70,7 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 </p>
 
 <br>
+
 ### 📫 Connect With Me
 
 <p align="center">
