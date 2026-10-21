@@ -9,7 +9,6 @@
 
 Junior Developer | Networking & Cybersecurity Enthusiast
 Focused on software development, computer networking, and cybersecurity.
-
 Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certification. I'm building practical projects while deepening my knowledge of networking and cybersecurity.
 
 <br>
