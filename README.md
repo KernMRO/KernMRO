@@ -13,13 +13,12 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 <br>
 
 ### 🛠️ Programming Languages
-
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light"
-    height="75"
-    alt="C, C++, C#, Java, Python"
-  />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
 </p>
 ### 🔐 Areas of Interest
 
