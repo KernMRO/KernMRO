@@ -72,8 +72,10 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 
 <br>
 
+<p align="center">
   <a href="https://github.com/KernMRO" target="blank"><img align="center" src="https://img.shields.io/github/followers/KernMRO?label=follow%20github&style=flat-square)](https://github.com/KernMRO"/></a>
   <img align="center" src="https://komarev.com/ghpvc/?username=KernMRO"/>
+  </p>
   
 ### 📫 Connect With Me
 
