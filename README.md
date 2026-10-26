@@ -72,6 +72,9 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 
 <br>
 
+  <a href="https://github.com/klezVirus" target="blank"><img align="center" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
+  <img align="center" src="https://komarev.com/ghpvc/?username=klezVirus"/>
+  
 ### 📫 Connect With Me
 
 <p align="center">
