@@ -51,16 +51,19 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 ### 📊 GitHub Stats
 
 <p align="center">
+ 
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F&icon_color=0969DA"
     alt="KernMRO's GitHub stats"
   />
+  
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F"
     alt="Top languages"
   />
+  
 </p>
 
 <p align="center">
