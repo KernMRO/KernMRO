@@ -13,7 +13,7 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 
 <br>
 
-### 🛠️ Programming Languages
+### Programming Languages
 
 <p align="center">
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
@@ -23,7 +23,7 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
 </p>
 
-### 🔐 Areas of Interest
+###  Areas of Interest
 
 - Computer Networking
 - Network & Cybersecurity
@@ -31,14 +31,14 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 - System Programming
 - Software Development
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Advanced Networking Concepts
 - Network Security
 - Cybersecurity Fundamentals
 - Data Structures & Algorithms
 
-### 🚀 Goals
+### Goals
 
 - Develop practical, real-world projects
 - Strengthen core programming and problem-solving skills
