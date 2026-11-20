@@ -48,7 +48,7 @@ Working with C, C++, C#, Java, and Python, and hold a CompTIA Network+ certifica
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table align="center">
   <tr>
